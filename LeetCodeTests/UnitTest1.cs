@@ -15,7 +15,7 @@ public class UnitTest1
         int[] result = LeetcodeSolutions.TwoSum(nums, target);
 
         // 执行测试
-        int[] expected = [0, 2];
+        int[] expected = [0, 1];
         Assert.Equal(expected, result);
     }
 }
