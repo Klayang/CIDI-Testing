@@ -9,3 +9,5 @@ Console.WriteLine();
 LeetcodeSolutions.TwoSum([2, 7, 11, 15], 9);
 
 Console.WriteLine("All answers correct. Interview passed!");
+Console.WriteLine("Press any key to quit: ");
+Console.ReadKey();
